@@ -1,0 +1,1 @@
+The Task Management App is a Python application built on the Pandas library and leverages Scikit-Learn for task prioritization and recommendations. The primary goal of this app is to provide users with a seamless and efficient way to manage their tasks through a user-friendly on-screen menu
